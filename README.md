@@ -28,8 +28,6 @@ Data Collection
 ===============
 
 
--  `SDF` all data is produced in SDF format. 
-
 Authors
 =======
 
