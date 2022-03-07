@@ -27,6 +27,8 @@ Explain where the data came from and it's specific path so it's easy to find. Al
 Data Collection
 ===============
 
+- `SDF` the sdf files were abstracted from where
+- `DAT` which software was the dat files produced. 
 
 Authors
 =======
