@@ -3,7 +3,6 @@
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ![Repo Size](https://img.shields.io/github/repo-size/mackerell-lab/Open-Source-Data-Template)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template?ref=badge_shield)
 
 Overview
 ========
@@ -40,5 +39,3 @@ Citation
  Licensing
 =========
 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template?ref=badge_large)
