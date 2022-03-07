@@ -14,14 +14,22 @@ Overview
 | Link to Other Stuff |                                                                                            |
 
 
+Data Overview
+=============
+
+Explain where the data came from and it's specific path so it's easy to find. Also not any nomenclature you need to clarify to any user using the data to reduce confusion. 
+
+| Data                  | File Format    | Entries # | Directory Path |
+|-----------------------|----------------|-----------|----------------|
+| Ligands               | SDF            | 9         |                |    
+| Binding Affinities    | Dat            | 9         |                |                                                                                
+| Raw Data              | Excel          | 100       |                |                                                                                 
+
 Data Collection
 ===============
 
-Any notes to how the data was collected, Explain where each collection of file formats came from or were they they collected yourself.
 
--  `SDF` Files were extrapolated from RDKit from a SMILES conversion. 
--  `PDB` Files were downloaded from the rscb with slight modifications into the nomenclature of the atom types etc.
--  
+-  `SDF` all data is produced in SDF format. 
 Authors
 =======
 
