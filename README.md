@@ -6,6 +6,8 @@ Herg ligands files and experimental data
 
 Overview
 ========
+All the different dataset 3D structures are in the sdf file. The experimental pIC50 values for each dataset are in the excel file.
+The pIC50 values were converted to delta G values as well. The experiment binding affinity (delta G) files is in the exp folder in the similar order of ligand arranged in the each sdf file.
 
 |                     |                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------ |
