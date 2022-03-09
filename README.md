@@ -36,6 +36,7 @@ Authors
 =======
 
 - First Author [Himanshu Goel](https://www.himanshu.com)
+- Second Autho [Wenbo Yu]
 - Corresponding Author [Alex MacKerell](http://www.alex.com)
 
 Citation
