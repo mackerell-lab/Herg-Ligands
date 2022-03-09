@@ -1,4 +1,4 @@
-Herg ligands files and experimental data
+hERG ligands files and experimental data
 =================
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
