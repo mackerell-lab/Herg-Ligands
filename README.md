@@ -11,7 +11,7 @@ The pIC50 values were converted to delta G values as well. The experiment bindin
 
 |                     |                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------ |
-| Link to Paper       | ![saythanks](https://img.shields.io/badge/Paper-Paper-ff69b4.svg)                          |
+| Link to Paper       | Goel et al. hERG Blockade Prediction by Combining Site Identification by Ligand Competitive Saturation (SILCS) and Physicochemical Properties. J. Comp. Aided Mol. Design (Under review)                          |
 | Link to Other Stuff |                                                                                            |
 
 
